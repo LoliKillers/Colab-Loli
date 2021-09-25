@@ -23,3 +23,7 @@ Bukan untuk nuyul Cryptocurrency
 > **Mengapa sumber daya perangkat keras seperti GPU T4 tidak tersedia untuk saya?**
 
 Perangkat keras terbaik yang tersedia diprioritaskan untuk pengguna yang menggunakan Colaboratory secara interaktif daripada untuk komputasi yang berjalan lama. Pengguna yang menggunakan Colaboratory untuk komputasi yang berjalan lama mungkin akan dibatasi sementara dalam jenis perangkat keras yang disediakan untuk mereka, dan/atau durasi penggunaan perangkat keras tersebut. Kami mendorong pengguna dengan kebutuhan komputasi tinggi untuk menggunakan UI Colaboratory dengan runtime lokal. Harap diperhatikan bahwa penggunaan Colaboratory untuk penambangan mata uang kripto dilarang sepenuhnya, dan dapat mengakibatkan larangan menggunakan Colab sama sekali. 
+
+# ???
+
+Untuk tutorial lengkapnya lihat [disini](Check out LoLi 404's post: https://t.me/Ch_Loli_404/8)
