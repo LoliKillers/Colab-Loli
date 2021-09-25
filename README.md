@@ -26,4 +26,4 @@ Perangkat keras terbaik yang tersedia diprioritaskan untuk pengguna yang menggun
 
 # ???
 
-Untuk tutorial lengkapnya lihat [disini](Check out LoLi 404's post: https://t.me/Ch_Loli_404/8)
+Untuk tutorial lengkapnya lihat [disini](https://t.me/Ch_Loli_404/8)
