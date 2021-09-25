@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/LoliKillers/LoliKillers/master/logo.svg" align="right" height="50" width="50"/>
-
 # Colab Loli
 
-[![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining)
+[![Warning]](#Warning-Not-for-Cryptocurrency-Mining)
+
 [![License: MIT][License-Badge]](LICENSE.md) 
 
 Peretasan Sederhana untuk Google Colaboratory untuk meningkatkan produktivitas dan membantu Anda melakukan tugas sehari-hari. Berikut ini adalah singkat tentang mereka semua 
